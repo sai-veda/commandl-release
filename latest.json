@@ -1,0 +1,11 @@
+{
+  "version": "1.102.0",
+  "tag_name": "v1.102.0-20250608-163911-f88467d",
+  "build_date": "20250608-163911",
+  "commit": "f88467d",
+  "source_url": "https://github.com/sai-veda/commandl-ide/commit/f88467da7d1bd22d2d254f20d25e7a74a73356aa",
+  "downloads": {
+    "arm64": "https://github.com/sai-veda/commandl-release/releases/download/v1.102.0-20250608-163911-f88467d/CommandL-macOS-ARM64-v1.102.0-20250608-163911-f88467d.dmg",
+    "x64": "https://github.com/sai-veda/commandl-release/releases/download/v1.102.0-20250608-163911-f88467d/CommandL-macOS-Intel-v1.102.0-20250608-163911-f88467d.dmg"
+  }
+}
